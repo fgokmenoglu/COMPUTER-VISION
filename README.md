@@ -1,2 +1,2 @@
-# IMAGE-PROCESSING
-This repository includes various applications about image processing.
+# COMPUTER-VISION
+This repository includes various applications about computer vision.
